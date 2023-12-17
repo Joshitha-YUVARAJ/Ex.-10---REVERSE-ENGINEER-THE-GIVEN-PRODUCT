@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 16:12:23
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -16,11 +16,23 @@
 ### Step 3.:- Save the file and export as .stl
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+
+![Screenshot 2023-12-17 151046](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/5d0b7608-8533-4523-85eb-7f89607ec8e6)
+
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+
+![Screenshot 2023-12-17 150244](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/31507c37-e80b-44cc-b243-840b9a2346bc)
+
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
+![Screenshot 2023-12-17 150409](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/abb47d0e-bc84-43b7-9297-357b960a72d1)
+
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![Screenshot 2023-12-17 150546](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/c1686608-0b2e-4224-9496-1fd9562a83ff)
+
+
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -32,11 +44,17 @@
 
 ## Input:
 
+![Screenshot 2023-12-17 150038](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/2a8b0b91-b607-4de8-b3a5-2de891b12da2)
+
 ### Output:
+![Screenshot 2023-12-17 151734](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/fd87e912-e3e7-47b2-a694-a1ea16e2cbd3)
 
 
-### Name:
-### Register Number:
+![Screenshot 2023-12-17 150619](https://github.com/Joshitha-YUVARAJ/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742770/1dedd26d-2b7e-4393-aa51-0b67d087304e)
+
+
+### Name:YUVARAJ JOSHITHA 
+### Register Number:23011447
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
